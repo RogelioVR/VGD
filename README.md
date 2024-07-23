@@ -1,5 +1,7 @@
 ![👾 VIDEO_GAMES_RELEASE_DATE](https://github.com/user-attachments/assets/6d273ba3-a8bc-41e2-a309-b2042ed5661c)
 
+![VRDv1](https://github.com/user-attachments/assets/19ade4d1-a453-45b3-b5f4-17b3335b1afe)
+
 # INTRO
 Super easy and simple program coded in Python whom fetch all videogames date released since 1958. Powered by python and [Rawg.io](https://api.rawg.io/docs/) API.
 
