@@ -5,6 +5,10 @@
 # INTRO
 Super easy and simple program coded in Python whom fetch all videogames date released since 1958. Powered by python and [Rawg.io](https://api.rawg.io/docs/) API.
 
+# TIME OF DEVELOPMENT
+
+3 hours.
+
 # HOW TO USE
 Just insert the mont and the day and press **SEARCH**. This will take a little longer because is searching the information, don't worry.
 
@@ -21,4 +25,4 @@ Just insert the mont and the day and press **SEARCH**. This will take a little l
 - Run it or just double click in the file
 - Insert month and day (with or without zero "0")
 - Press search and wait for the fetch
-- Enjoy! 👾 
+- Enjoy! 👾
