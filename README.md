@@ -12,6 +12,7 @@ Just insert the mont and the day and press **SEARCH**. This will take a little l
 
 - Download and install [Python 3.x](https://www.python.org/) to you machine
 - Open the file with visual code or the text editor of your choice
+- Install Tkinter via terminal: pip install tkinter
 - Change the **"key"** value with your own **API TOKEN**
 
 ![image](https://github.com/user-attachments/assets/032d5ed2-0aa6-4efa-8160-12976448d1ef)
